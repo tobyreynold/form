@@ -1,3 +1,6 @@
 [submodule "select"]
 	path = select
 	url = git://github.com/viclm/select.git
+[submodule "textbox"]
+	path = textbox
+	url = git://github.com/viclm/textbox.git
